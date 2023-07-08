@@ -1,0 +1,44 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "HTML is easy",
+      "important": true
+    },
+    {
+      "id": 2,
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": 3,
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": false
+    },
+    {
+      "content": "Hello world",
+      "important": false,
+      "id": 4
+    },
+    {
+      "content": "JS is easy to learn",
+      "important": true,
+      "id": 5
+    },
+    {
+      "content": "Hello react",
+      "important": true,
+      "id": 6
+    },
+    {
+      "content": "I know HTML ",
+      "important": false,
+      "id": 7
+    },
+    {
+      "content": "There is no place like 127.0.0.0",
+      "important": true,
+      "id": 8
+    }
+  ]
+}
